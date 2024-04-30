@@ -38,8 +38,6 @@ The purpose of this list is to be a reference and standard the terminology used 
 
 **Competitive property:** A property that is comparable to the subject and competes at nearly the same rent levels and tenant profiles.
 
-**Comprehensive Market Study:** Defined by NCHMA for IRS Section 42 as a market study compliant with NCHMA's Model Content Standards.
-
 **Concession:** Discounts offered to tenants to induce lease signing, such as reduced rent or free amenities.
 
 **Cost burden, severe:** Spending more than 50% of household income on housing costs.
@@ -158,7 +156,7 @@ The purpose of this list is to be a reference and standard the terminology used 
 
 **Tenure:** Whether a housing unit is owner-occupied or renter-occupied.
 
-**Townhome:** A single-family attached home as part of a larger structure, sharing walls with other units.
+**Townhome:** An attached home as part of a larger structure, sharing walls with other units.
 
 **Turnover:** The rate at which occupants change in a housing unit or property.
 
