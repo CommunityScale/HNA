@@ -1,6 +1,6 @@
 # Glossary of Housing Study Terminology
 
-The purpose of this list is to be a reference and standard the terminology used in housing studies.
+The purpose of this list is to be a reference and standard the terminology used in housing studies with a focus on the United States.
 
 ## Defined terms
 
